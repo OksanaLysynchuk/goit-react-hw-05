@@ -1,0 +1,41 @@
+.movieDetails {
+  padding: 20px;
+}
+
+.movieTitle {
+  font-size: 32px;
+}
+
+.movieImg {
+  width: 300px;
+  float: left;
+  margin-right: 20px;
+}
+
+.movieDetails p {
+  color: #333;
+}
+
+.movieDetails nav a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.movieDetails nav a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
